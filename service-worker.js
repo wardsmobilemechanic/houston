@@ -12,8 +12,7 @@ const PRECACHE_URLS = [
   '/contactform.js',
   '/flickity/js',
   '/manifest.json',
-  '/reviews.js',
-  '/wards.js'
+  '/reviews.js'
 ];
 
 // The install handler takes care of precaching the resources we always need.
