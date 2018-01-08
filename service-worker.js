@@ -23,7 +23,7 @@ const PRECACHE_URLS = [
   './', // Alias for index.html
    '/style.css',
   '/contactform.js',
-  '/flickity/js',
+  '/flickity.js',
   '/manifest.json',
   '/reviews.js'
 ];
